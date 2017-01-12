@@ -1,0 +1,7 @@
+#Wed Jan 11 12:56:21 CET 2017
+base.0=/Users/jlroyo/Downloads/quizz-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_094ef2b8d1823f3e714a3885beea09e48191032f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/jlroyo/Downloads/quizz-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_90371b0c29c26abeb36dd81c96bc42c09ae92a8c/classes.dex
+base.1=/Users/jlroyo/Downloads/quizz-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_90371b0c29c26abeb36dd81c96bc42c09ae92a8c
+file.0=/Users/jlroyo/Downloads/quizz-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_094ef2b8d1823f3e714a3885beea09e48191032f/classes.dex

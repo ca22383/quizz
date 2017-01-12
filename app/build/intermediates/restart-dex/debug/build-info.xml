@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="12004644697579"
+    token="-3018192993849802112" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="8072499623798"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/Users/jlroyo/Downloads/quizz-master/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="9557613404429"
+        verifier="FIELD_ADDED" >
+        <artifact
+            location="/Users/jlroyo/Downloads/quizz-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="9935181774343"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/jlroyo/Downloads/quizz-master/app/build/intermediates/builds/debug/9935181774343/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="9964861406423"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/jlroyo/Downloads/quizz-master/app/build/intermediates/builds/debug/9964861406423/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="9977993519409"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/jlroyo/Downloads/quizz-master/app/build/intermediates/builds/debug/9977993519409/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="10229046917791"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/jlroyo/Downloads/quizz-master/app/build/intermediates/builds/debug/10229046917791/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="12004644697579" />
+
+</instant-run>
